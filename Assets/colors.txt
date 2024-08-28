@@ -1,0 +1,30 @@
+Deep Maroon:
+Hex: #8B0000
+RGB: 139, 0, 0
+Use: Background or accents, giving a rich, traditional feel.
+
+Gold:
+Hex: #FFD700
+RGB: 255, 215, 0
+Use: Highlights and icons to add a touch of elegance and heritage.
+
+Warm Beige:
+Hex: #F5F5DC
+RGB: 245, 245, 220
+Use: Backgrounds or secondary elements to maintain a warm, inviting tone.
+
+Dark Brown:
+Hex: #4B2E2A
+RGB: 75, 46, 42
+Use: Text color or borders, adding contrast and depth.
+
+Muted Olive Green:
+Hex: #6B8E23
+RGB: 107, 142, 35
+Use: Buttons or icons, reflecting the earthy tones of Burmese culture.
+
+
+Soft Cream:
+Hex: #FFFDD0
+RGB: 255, 253, 208
+Use: For backgrounds or light text areas, keeping the design bright and readable.
