@@ -75,9 +75,10 @@ main{
     display: flex;
     align-items: center;
     overflow: hidden;
+
 }
 .kbc{
-    width: 100%;
+    width: 45%;
     height: 100%;
 }
 .kb{
@@ -88,12 +89,15 @@ main{
 }
 
 .text-area{
-    
+    width: 55%;
+    height: 100%;
     padding: 10px;
+    justify-content: center;
     display: flex;
     align-items: center;
     flex-direction: column;
     gap: 10px;
+    transition: all 1s;
 }
 
 .ph{
@@ -117,4 +121,29 @@ main{
     opacity: 1;
     color: #FFFDD0;
     font-size: 14px;
+    transition: all 0.3s;
 }
+
+.text-area:hover{
+    background-color: #FFFDD0;
+    color: #4B2E2A;
+
+}
+
+.text-area:hover .btn{
+    border-color: #4B2E2A;
+    color: #4B2E2A;
+   
+}
+
+.btn:hover{
+    background-color: #4B2E2A;
+    color: #FFFDD0  !important; 
+}
+
+#links:hover{
+  text-decoration: underline;
+  font-size: larger;
+ 
+}
+
